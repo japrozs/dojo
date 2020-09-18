@@ -53,5 +53,12 @@ ELSE THEN
 ```python
 WHILE True THEN
   PRINT("HELLO")
- END
+END
  ```
+* Return statements
+```python
+FUN greet() THEN
+  PRINT("HELLO")
+  RETURN "Hello"
+END
+```
