@@ -13,7 +13,10 @@ Basic Grammar of the DOJO Programming Language:
 - PRINT = return something to the screen
 - RETURN = return something
 - VAR = declare a variable
-- # = Declare a comment 
+- IF = if statement
+- ELIF = elif statement
+- ELSE = else statement 
+- `#` = Declare a comment 
 
 - A Function declaration
 ```python
@@ -33,3 +36,22 @@ APPEND(tokens, "first_element")
 # instead of tokens[i] you have to use tokens/i to access the i'th element
 PRINT(tokens/0)
 ```
+# Single line:
+* Functions
+```python
+FUN greet(string) -> PRINT(string)
+```
+* If else statements
+```python
+IF a = True THEN
+  PRINT("TRUE")
+ELIF a = False THEN
+  PRINT("FALSE")
+ELSE THEN
+```
+* While statements
+```python
+WHILE True THEN
+  PRINT("HELLO")
+ END
+ ```
