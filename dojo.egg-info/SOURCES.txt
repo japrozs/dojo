@@ -2,6 +2,8 @@ setup.py
 dojo/__init__.py
 dojo/__main__.py
 dojo/dojo.py
+dojo/setup.py
+dojo/strings_with_arrows.py
 dojo.egg-info/PKG-INFO
 dojo.egg-info/SOURCES.txt
 dojo.egg-info/dependency_links.txt

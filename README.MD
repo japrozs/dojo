@@ -8,6 +8,11 @@ Some features of Dojo are as given below:
 
 # Install
 You can install dojo from the pip python package manager coming soon!!
+## Curl
+You can install dojo from cURL through the following command:
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Japroz-Saini/dojo/master/install.sh)"
+```
 
 # Grammar
 Basic Grammar of the DOJO Programming Language:
