@@ -1,0 +1,3 @@
+[console_scripts]
+dojo = dojo.__main__:main
+
