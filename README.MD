@@ -6,6 +6,10 @@ Some features of Dojo are as given below:
 - Basic Arithmetic
 - Executing Files
 
+# Install
+You can install dojo from the pip python package manager coming soon!!
+
+# Grammar
 Basic Grammar of the DOJO Programming Language:
 - All keywords are in Capital
 - FUN = Used to declare a function
