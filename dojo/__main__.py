@@ -61,5 +61,5 @@ def main():
 					print(TGREEN + repr(result.elements[0]), TWHITE)
 				else:
 					print(TGREEN + repr(result), TWHITE)
-
-main()
+if __name__ == "__main__":
+    main()
